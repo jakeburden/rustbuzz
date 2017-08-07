@@ -1,0 +1,6 @@
+[package]
+name = "rustbuzz"
+version = "0.1.0"
+authors = ["jake <@o91tsjBgL0l0zs475aRWYSAXFxvirZS7VrXmirY/msI=.ed25519>"]
+
+[dependencies]
